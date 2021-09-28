@@ -1,0 +1,15 @@
+.titolo {
+    color: chocolate;
+    font-family: impact;
+    text-align: center;
+}
+
+body {
+    background-color: darkred;
+}
+input {
+    margin-top: 15px;
+}
+input, p {
+    font-weight: bold;
+}
