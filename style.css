@@ -1,20 +1,44 @@
 .titolo {
-    color: red;
-    font-family: impact;
+    color: white;
+    font: 80px Oswald;
     text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 28%
 }
 
 .titolo-paragrafi {
+    background-color: transparent; 
+    border-bottom: none; 
+    border-left: none; 
+    border-right: none; 
+    border-top: none; 
+    line-height: 1.38; 
+    margin-bottom: 4pt; 
+    margin-top: 18pt; 
+    padding-bottom: 0; 
+    padding-left: 0; 
+    padding-right: 0; 
+    padding-top: 0;
+    font: 40px Oswald;
     color: red;
-    font-family: impact;
-    text-align: left;
 }
 .immagine-profilo {
     border-radius: 60%;
+    position: absolute;
+    top: 4%;
+    left: 2%
     
 }
 .bottone {
-    color: red;
+    color: black;
+    border-radius: 90cm;
+    background-color: gray;
+}
+.muro {
+    height: 700px;
+    width: 1850px;
+    white-space: normal;
 }
 input {
     margin-top: 15px;
