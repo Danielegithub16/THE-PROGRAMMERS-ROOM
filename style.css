@@ -1,11 +1,20 @@
 .titolo {
-    color: chocolate;
+    color: red;
     font-family: impact;
     text-align: center;
 }
 
-body {
-    background-color: darkred;
+.titolo-paragrafi {
+    color: red;
+    font-family: impact;
+    text-align: left;
+}
+.immagine-profilo {
+    border-radius: 60%;
+    
+}
+.bottone {
+    color: red;
 }
 input {
     margin-top: 15px;
