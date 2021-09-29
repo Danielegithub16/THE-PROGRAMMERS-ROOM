@@ -34,10 +34,17 @@
     color: black;
     border-radius: 90cm;
     background-color: gray;
+    font: 20px Oswald;
+}
+.pagina-discord {
+    color: black;
+    border-radius: 90cm;
+    background-color: gray;
+    font: 20px Oswald;
 }
 .muro {
     height: 700px;
-    width: 1850px;
+    width: 1888px;
     white-space: normal;
 }
 input {
@@ -45,4 +52,7 @@ input {
 }
 input, p {
     font-weight: bold;
+}
+body {
+    background-color: blanchedalmond;
 }
